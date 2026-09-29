@@ -2,7 +2,7 @@
 
 Build a premium, responsive portfolio website for **Shivam Kumar**, a Senior Software Engineer specializing in AI/GenAI and full-stack engineering.
 
-The portfolio should feel:
+The portfolio should feel-
 
 - Premium
 - Minimal
